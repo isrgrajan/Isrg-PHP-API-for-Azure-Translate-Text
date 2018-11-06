@@ -1,4 +1,8 @@
 <?php
+/*
+ISRG PHP API FOR MICROSOFT AZURE TRANSLATE TEXT
+Copyrighted 20018 Isrg Rajan (www.isrgrajan.com)
+*/
 include "config-isrg.php";
 function isrg_auto_translate($string)
 {
